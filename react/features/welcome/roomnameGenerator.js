@@ -12,22 +12,7 @@ const _NOUN_ = [
  * @const
  */
 const _PLURALNOUN_ = [
-    'Aliens', 'Animals', 'Antelopes', 'Ants', 'Apes', 'Apples', 'Baboons',
-    'Bacteria', 'Badgers', 'Bananas', 'Bats', 'Bears', 'Birds', 'Bonobos',
-    'Brides', 'Bugs', 'Bulls', 'Butterflies', 'Cheetahs', 'Cherries', 'Chicken',
-    'Children', 'Chimps', 'Clowns', 'Cows', 'Creatures', 'Dinosaurs', 'Dogs',
-    'Dolphins', 'Donkeys', 'Dragons', 'Ducks', 'Dwarfs', 'Eagles', 'Elephants',
-    'Elves', 'Fathers', 'Fish', 'Flowers', 'Frogs', 'Fruit', 'Fungi',
-    'Galaxies', 'Geese', 'Goats', 'Gorillas', 'Hedgehogs', 'Hippos', 'Horses',
-    'Hunters', 'Insects', 'Kids', 'Knights', 'Lemons', 'Lemurs', 'Leopards',
-    'LifeForms', 'Lions', 'Lizards', 'Mice', 'Monkeys', 'Monsters', 'Mushrooms',
-    'Octopodes', 'Oranges', 'Orangutans', 'Organisms', 'Pants', 'Parrots',
-    'Penguins', 'People', 'Pigeons', 'Pigs', 'Pineapples', 'Plants', 'Potatoes',
-    'Priests', 'Rats', 'Reptiles', 'Reptilians', 'Rhinos', 'Seagulls', 'Sheep',
-    'Siblings', 'Snakes', 'Spaghetti', 'Spiders', 'Squid', 'Squirrels',
-    'Stars', 'Students', 'Teachers', 'Tigers', 'Tomatoes', 'Trees', 'Vampires',
-    'Vegetables', 'Viruses', 'Vulcans', 'Weasels', 'Werewolves', 'Whales',
-    'Witches', 'Wizards', 'Wolves', 'Workers', 'Worms', 'Zebras'
+    'Aliens'
 ];
 
 /*
